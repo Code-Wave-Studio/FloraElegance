@@ -260,7 +260,7 @@ const Auth = () => {
             <div className="text-[10px] text-slate-400 font-semibold leading-normal text-center mt-4 bg-slate-50 border border-slate-100 p-3 rounded-xl">
               <span className="font-extrabold text-slate-600">Demo Login Details Available:</span><br />
               Customer: <span className="font-bold text-primary-700">jane@example.com</span> | PW: <span className="font-bold text-slate-600">admin123</span><br />
-              Admin Panel: <span className="font-bold text-emerald-700">admin@ugaoo.com</span> | PW: <span className="font-bold text-slate-600">admin123</span>
+              Admin Panel: <span className="font-bold text-emerald-700">admin@floraelegance.com</span> | PW: <span className="font-bold text-slate-600">admin123</span>
             </div>
           )}
 
